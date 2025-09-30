@@ -2,8 +2,7 @@ Readme Renderer
 ---------------
 
 A simple, local setup for writing and rendering READMEs. Useful for people who
-edit in terminals and therefore don't utilize readme previewers present among
-IDEs.
+edit in terminals and don't utilize readme previewers present in IDEs.
 
 Setup
 -----
