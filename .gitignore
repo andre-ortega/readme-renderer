@@ -1,5 +1,6 @@
-index2
+slices/index2
+index.html
+README.wc
 node_modules/
 package-lock.json
 favicon.ico
-index.html
